@@ -12,7 +12,7 @@
             <div class="navbar-nav nav-center">
 
                 <a class="nav-item nav-link active" href="/">Inicio <span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="#">Categorias</a>
+                <a class="nav-item nav-link" href="/categorias">Categorias</a>
                 <a class="nav-item nav-link" href="/productos">Ver Productos</a>
 
                 @guest

@@ -50,27 +50,27 @@
     </article>
     <article class="row mt-5 pb-5">
         <div class="col-lg-2 col-12">
-            <img class="rounded-circle" src="{{asset('images/categorias/oficina.jpg')}}" alt="articulos de oficina" width="250" height="250">
+            <img class="rounded-circle fotos" src="{{asset('images/categorias/oficina.jpg')}}" alt="articulos de oficina" width="250" height="250">
             <h4 class="ss-inicio-cattext">Oficina</h4>
         </div>
         <div class="col-lg-2 col-12 ">
-                <img class="rounded-circle" src="{{asset('images/categorias/juguetes.jpg')}}" alt="articulos de oficina" width="250" height="250">
+                <img class="rounded-circle fotos" src="{{asset('images/categorias/juguetes.jpg')}}" alt="articulos de oficina" width="250" height="250">
                 <h4 class="ss-inicio-cattext">Juguetes</h4>
         </div>
         <div class="col-lg-2 col-12 ">
-                <img class="rounded-circle" src="{{asset('images/categorias/herramientas.jpg')}}" alt="articulos de oficina" width="250" height="250">
+                <img class="rounded-circle fotos" src="{{asset('images/categorias/herramientas.jpg')}}" alt="articulos de oficina" width="250" height="250">
                 <h4 class="ss-inicio-cattext">Herramientas</h4>
         </div>
         <div class="col-lg-2 col-12 ">
-                <img class="rounded-circle" src="{{asset('images/categorias/utiles.png')}}" alt="articulos de oficina" width="250" height="250">
+                <img class="rounded-circle fotos" src="{{asset('images/categorias/utiles.png')}}" alt="articulos de oficina" width="250" height="250">
                 <h4 class="ss-inicio-cattext">Utiles Escolares</h4>
         </div>
         <div class="col-lg-2 col-12 ">
-                <img class="rounded-circle" src="{{asset('images/categorias/profesional.jpg')}}" alt="articulos de oficina" width="250" height="250">
+                <img class="rounded-circle fotos" src="{{asset('images/categorias/profesional.jpg')}}" alt="articulos de oficina" width="250" height="250">
                 <h4 class="ss-inicio-cattext">Utiles Profesionales</h4>
         </div>
         <div class="col-lg-2 col-12 ">
-                <img class="rounded-circle" src="{{asset('images/categorias/maquinas.jpg')}}" alt="articulos de oficina" width="250" height="250">
+                <img class="rounded-circle fotos" src="{{asset('images/categorias/maquinas.jpg')}}" alt="articulos de oficina" width="250" height="250">
                 <h4 class="ss-inicio-cattext">Maquinaria</h4>
         </div>
     </article>
@@ -121,7 +121,7 @@
             <article class="carousel-item active">
             <img class="d-block w-100" src="{{asset('images/carousel/carousel4.jpg')}}" alt="First slide">
             <article class="carousel-caption d-none d-md-block">
-                <h3 class="carousel"><a href=#">Hacemos envios a todo el país</a></h3>
+                <h3 class="carousel"><a href="#">Hacemos envios a todo el país</a></h3>
                 <h5>Entregas fuera de buenos aires en menos de 24 hs!</h5>
             </article>
             </article>

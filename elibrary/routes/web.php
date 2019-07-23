@@ -17,7 +17,7 @@ Route::get('/vender', 'ProductosController@create')->middleware('auth')->name('c
 Route::post('/guardarProducto', 'ProductosController@save')->name('guardar');
 Route::get('/editar/{id}', 'ProductosController@edit')->name('editar');
 Route::get('/eliminar/{id}', 'ProductosController@delete')->name('eliminar');
-
+Route::get('/categorias', 'CategoriasController@index')->name('categorias');
 
 Auth::routes();
 

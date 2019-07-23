@@ -7,3 +7,11 @@
     text-align: center;
 }
 
+@media (min-width: 460px) {
+        .fotos{
+            width: 200px;
+            height: 200px;
+            display: block;
+            margin: auto;
+    }
+}
