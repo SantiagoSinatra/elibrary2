@@ -16,21 +16,21 @@
             <article class="carousel-item active">
             <img class="d-block w-100" src="{{asset('images/carousel/carousel1.jpg')}}" alt="First slide">
             <article class="carousel-caption d-none d-md-block">
-                <h3 class="carousel"><a href=#">Los mejores productos para la oficina</a></h3>
+                <h3 class="carousel azul"><a href=#">Los mejores productos para la oficina</a></h3>
                 <h5>Precios exclusivos para empresas y agrupaciones</h5>
             </article>
             </article>
             <article class="carousel-item">
             <img class="d-block w-100 height: 200px" src="{{asset('images/carousel/carousel2.jpg')}}" alt="Second slide">
             <article class="carousel-caption d-none d-md-block">
-            <h3 class="carousel"><a href="#">El mejor precio y la mejor calidad</a></h3>
+            <h3 class="carousel azul"><a href="#">El mejor precio y la mejor calidad</a></h3>
             <h5>Elibrary sólo vende productos de la mejor calidad para que tu dinero valga más</h5>
             </article>
             </article>
             <article class="carousel-item">
             <img class="d-block w-100 height: 200px" src="{{asset('images/carousel/carousel3.jpg')}}" alt="Third slide">
             <article class="carousel-caption d-none d-md-block">
-                <h3 class="carousel"><a href="#">Juntos cuidamos nuestro futuro</a></h3>
+                <h3 class="carousel azul"><a href="#">Juntos cuidamos nuestro futuro</a></h3>
                 <h5>Elibrary dona $1 por cada compra que realizás a organizaciones que ayudan a mejorar el medio ambiente</h5>
             </article>
             </article>

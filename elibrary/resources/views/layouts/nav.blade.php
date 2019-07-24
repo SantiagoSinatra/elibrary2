@@ -12,7 +12,14 @@
             <div class="navbar-nav nav-center">
 
                 <a class="nav-item nav-link active" href="/">Inicio <span class="sr-only">(current)</span></a>
-                <a class="nav-item nav-link" href="/categorias">Categorias</a>
+                <div class="dropdown">
+                  <button class="dropbtn nav-item nav-link">Categorias</button>
+                  <div class="dropdown-content ">
+                    <a href="/categoria1">Escolar</a>
+                    <a href="/categoria2">Artistico</a>
+                    <a href="/categoria3">Tecnico</a>
+                  </div>
+                </div>
                 <a class="nav-item nav-link" href="/productos">Ver Productos</a>
 
                 @guest

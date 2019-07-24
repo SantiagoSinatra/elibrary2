@@ -2,6 +2,12 @@
     color: white;
 }
 
+.azul{
+    text-shadow: -1px 1px 0 #000, 
+                  1px 1px 0 #000, 
+                  1px -1px 0 #000,
+                  -1px -1px 0 #000; 
+}
 .ss-inicio-cattext{
     color: white;
     text-align: center;
